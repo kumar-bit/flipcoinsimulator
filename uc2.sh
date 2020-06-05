@@ -13,8 +13,8 @@ echo "tail wins"
 let "tailer++"
 fi
 done
-echo  "header: $tailer"
-echo  "tailer: $header"
+echo  "header: $header"
+echo  "tailer: $tailer"
 
 
 
